@@ -1,1 +1,1 @@
-echo "<h1> index.html dari jenkins </h1>" > index.html 
+echo "<h1> Versi2 </h1>" > index.html 
